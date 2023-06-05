@@ -4,7 +4,6 @@ Me chamo Lázaro Joabe, tenho 19 anos e atualmente faço Bacharelado em Ciência
 Estou sempre aberto a novos aprendizados e adoro me debruçar sobre um assunto e entendê-lo com um maior nível de profundidade.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazarojoabe&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarojoabe&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias: 
 <div style = "display: inline_block"><br/>
