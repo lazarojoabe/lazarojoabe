@@ -1,9 +1,9 @@
 <h1 align="center">Olá, eu sou o Lázaro Joabe! 👋</h1>
 
-<h3 align="center">Desenvolvedor Full Stack | Node.js | Nest.js | Vue.js | IA[cite: 1]</h3>
+<h3 align="center">Desenvolvedor Full Stack | Node.js | Nest.js | Vue.js | IA</h3>
 
 <p align="center">
-  Sou estudante de Ciência da Computação na Universidade Federal de Uberlândia (UFU) e atuo no mercado como Desenvolvedor Full Stack[cite: 1]. Sou apaixonado por construir soluções robustas, compreender tecnologias em um alto nível de profundidade e aplicar esses conhecimentos para resolver desafios reais.
+  Sou estudante de Ciência da Computação na Universidade Federal de Uberlândia (UFU) e atuo no mercado como Desenvolvedor Full Stack. Sou apaixonado por construir soluções robustas, compreender tecnologias em um alto nível de profundidade e aplicar esses conhecimentos para resolver desafios reais.
 </p>
 
 ---
