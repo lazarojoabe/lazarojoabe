@@ -53,7 +53,11 @@
 ### 📊 Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lazarojoabe&show_icons=true&theme=radical" alt="Lázaro's GitHub stats" />
+  
+  [![Lázaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazarojoabe&show_icons=true&theme=radical)](https://github.com/lazarojoabe)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarojoabe&layout=compact&theme=radical)](https://github.com/lazarojoabe)
+
 </div>
 
 ---
